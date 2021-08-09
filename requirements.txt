@@ -3,3 +3,5 @@ Emoji
 Type Opetion
 Color 
 Vibrate
+Dark Mode
+Video Calls
